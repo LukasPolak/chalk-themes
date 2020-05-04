@@ -1574,7 +1574,7 @@
 	<key>UseBoldFonts</key>
 	<false/>
 	<key>name</key>
-	<string>Chalk</string>
+	<string>chalk</string>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
