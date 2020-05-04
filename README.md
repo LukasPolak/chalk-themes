@@ -27,3 +27,6 @@ iTerm2
 
 Terminal
 ![Terminal](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/Terminal.png)
+
+Slack
+![Slack](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/Slack.png)
