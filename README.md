@@ -1,5 +1,7 @@
 # Chalk
 
+Theme for [iTerm2](https://www.iterm2.com/), [Terminal](https://support.apple.com/guide/terminal/welcome/mac), [Slack](https://slack.com/) based on [chalk](https://github.com/chalk/chalk) colors.
+
 [Colors in Figma](https://www.figma.com/file/w8AWnDLPQX3t8frHiYJdG3/Chalk?node-id=0%3A1&viewport=358%2C312%2C2.266522169113159)
 
 Colors:
