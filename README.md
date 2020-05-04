@@ -22,6 +22,8 @@ Slack:
 
 ## Preview
 
-![iTerm2](https://github.com/lukaspolak/chalk/raw/master/src/assets/iTerm2.png) "iTerm2")
+iTerm2
+![iTerm2](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/iTerm2.png)
 
-![Terminal](https://github.com/lukaspolak/chalk/raw/master/src/assets/Terminal.png) "Terminal")
+Terminal
+![Terminal](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/Terminal.png)
