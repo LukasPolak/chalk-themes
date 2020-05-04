@@ -1,8 +1,8 @@
-# Chalk
+# Chalk Themes
 
 Theme for [iTerm2](https://www.iterm2.com/), [Terminal](https://support.apple.com/guide/terminal/welcome/mac), [Slack](https://slack.com/) based on [chalk](https://github.com/chalk/chalk) colors.
 
-[Colors in Figma](https://www.figma.com/file/w8AWnDLPQX3t8frHiYJdG3/Chalk?node-id=0%3A1&viewport=358%2C312%2C2.266522169113159)
+[Colors in Figma](https://www.figma.com/file/w8AWnDLPQX3t8frHiYJdG3/chalk-themes?node-id=0%3A1&viewport=358%2C312%2C2.266522169113159)
 
 Colors:
 
@@ -23,10 +23,10 @@ Slack:
 ## Preview
 
 iTerm2
-![iTerm2](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/iTerm2.png)
+![iTerm2](https://raw.githubusercontent.com/LukasPolak/chalk-themes/master/assets/iTerm2.png)
 
 Terminal
-![Terminal](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/Terminal.png)
+![Terminal](https://raw.githubusercontent.com/LukasPolak/chalk-themes/master/assets/Terminal.png)
 
 Slack
-![Slack](https://raw.githubusercontent.com/LukasPolak/chalk/master/assets/Slack.png)
+![Slack](https://raw.githubusercontent.com/LukasPolak/chalk-themes/master/assets/Slack.png)
