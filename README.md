@@ -19,3 +19,9 @@ Colors:
 
 Slack:
 `#282D35,#282D35,#3B434E,#B9C0CB,#3B434E,#B9C0CB,#A8CC8C,#E88388,#282D35,#B9C0CB`
+
+## Preview
+
+![iTerm2](https://github.com/lukaspolak/chalk/raw/master/src/assets/iTerm2.png) "iTerm2")
+
+![Terminal](https://github.com/lukaspolak/chalk/raw/master/src/assets/Terminal.png) "Terminal")
